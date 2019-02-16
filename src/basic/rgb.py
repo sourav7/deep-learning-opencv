@@ -1,11 +1,13 @@
 import cv2
 import numpy as np
 
-imagePath = 'C:/Users/CSE/Desktop/python/images/'
-inputImagePath = imagePath + 'index.jpg'
+#custom module
+import imageInfo
 
-#Code section
-image = cv2.imread(inputImagePath)
+#Coding Section
+###############################
+image = cv2.imread(imageInfo.photographyImage)
+
 
 B, G, R = image[50,0]
 print(image.shape)

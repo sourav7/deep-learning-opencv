@@ -1,13 +1,13 @@
 import cv2
 import numpy as np
 
-imagePath = 'C:/Users/CSE/Desktop/python/images/'
-inputImagePath = imagePath + 'index.jpg'
-
+#custom module
+import imageInfo
 
 #Coding Section
 ###############################
-image  = cv2.imread(inputImagePath)
+image = cv2.imread(imageInfo.photographyImage)
+
 
 #split image into each color section
 B, G, R = cv2.split(image)
