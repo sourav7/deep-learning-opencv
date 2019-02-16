@@ -7,5 +7,5 @@ image processing with opencv.
 * pip install opencv-python
 * pip install matplotlib
 
-[My linkedin profile](https://www.linkedin.com/in/sourav-debnath-3673a3128)
+[My linkedin profile]:https://www.linkedin.com/in/sourav-debnath-3673a3128
 
