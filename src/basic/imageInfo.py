@@ -1,9 +1,9 @@
 from os import path
 
-__imageName = 'photography.jpg'
-__output = 'output.jpg'
+__IMAGE_NAME = 'photography.jpg'
+__OUTPUT = 'output.jpg'
 
 basepath = path.dirname(__file__)
-photographyImage = path.abspath(path.join(basepath, "..", "resources","images",__imageName))
+photographyImage = path.abspath(path.join(basepath, "..", "resources","images",__IMAGE_NAME))
 
-outputImage = path.abspath(path.join(basepath, "..", "resources","images",__output))
+outputImage = path.abspath(path.join(basepath, "..", "resources","images",__OUTPUT))
