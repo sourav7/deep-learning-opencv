@@ -2,7 +2,8 @@
 
 This is a demo purpose project to learn some basics and applications of 
 image processing with opencv.
-#### [Sourav Debnath](https://www.linkedin.com/in/sourav-debnath-3673a3128)
+### Linkedin profile
+ [Sourav Debnath](https://www.linkedin.com/in/sourav-debnath-3673a3128)
 
 #### Try following command in commmand prompt if you do not have required libray
 * pip install opencv-python
