@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 #custom module
-import imageInfo
+from src.basic import imageInfo
 
 #Coding Section
 ###############################

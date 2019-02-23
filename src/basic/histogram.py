@@ -3,7 +3,7 @@ import cv2
 import numpy as np
 from matplotlib import pyplot as plt
 #custom module import
-import imageInfo
+from src.basic import imageInfo
 
 print(imageInfo.photographyImage)
 

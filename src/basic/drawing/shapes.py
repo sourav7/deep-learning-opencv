@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-from frame import Frame
+from src.basic.drawing.frame import Frame
 
 #================Line================
 #create a background to draw line
